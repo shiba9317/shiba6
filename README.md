@@ -55,4 +55,8 @@
 ## 動作
 ・youtubeにて、その動作を確認できる動画を公開する
 
-・URL→https://youtu.be/NOSOB0cSlz8
+・ノード1のURL→https://youtube.com/shorts/IpESvcfSnSE?feature=share
+
+・ノード2のURL→https://youtube.com/shorts/IKyAiNEgmRQ?feature=share
+
+・ノード3のURL→https://youtu.be/NOSOB0cSlz8
